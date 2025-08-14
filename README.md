@@ -4,13 +4,12 @@
 
 <p align="center">
 
-  <a href="">
+  <a href="https://www.linkedin.com/in/hanna-teles-368755112/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
  <a href="https://known-vegetable.surge.sh/">
- <a href="https://quarrelsome-metal.surge.sh/">
 
-  <a href="mailto:">
+  <a href ="mailto:hannapuente@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
